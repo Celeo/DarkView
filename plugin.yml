@@ -1,0 +1,10 @@
+name: DarkView
+version: 1.0.0.0
+author: Celeo
+description: Allows server owners to view enderchests' contents
+website: http://darktidegames.com
+main: net.thedarktide.celeo.DarkView
+commands:
+  darkview:
+    usage: /<command> [player]
+    description: Opens or schedules the viewing of a player's enderchest
